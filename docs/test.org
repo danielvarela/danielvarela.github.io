@@ -1,6 +1,6 @@
 * Prueba 1
   Testo
- +BEGIN_SRC <c++>
+ #+BEGIN_SRC <c++>
 	#include <stdio>
 	
 	int main() {
@@ -8,4 +8,4 @@
 
 	  return 0;
 	}
-  +END_SRC
+  #+END_SRC
