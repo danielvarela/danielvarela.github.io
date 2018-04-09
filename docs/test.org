@@ -1,5 +1,5 @@
 * Prueba 1
-  Testo
+  Texto
  #+BEGIN_SRC <c++>
 	#include <stdio>
 	
