@@ -6,7 +6,7 @@
 <!-- 2020-06-18 jue 12:57 -->
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Main Page</title>
+<title>&lrm;</title>
 <meta name="generator" content="Org mode" />
 <meta name="author" content="Daniel Varela" />
 <style type="text/css">
@@ -180,7 +180,6 @@
   .org-svg { width: 90%; }
   /*]]>*/-->
 </style>
-<link rel="stylesheet" type="text/css" href="../css/site.css" />
 <script type="text/javascript">
 /*
 @licstart  The following is the entire license notice for the
@@ -230,25 +229,15 @@ for the JavaScript code in this tag.
 </head>
 <body>
 <div id="content">
-<h1 class="title">Main Page</h1>
-<p>
-Random articles about linux, emacs, data processing, etc.  This site and the articles are built with emacs and org-mode 
-</p>
-
-<div id="outline-container-org8623b84" class="outline-2">
-<h2 id="org8623b84">Blog</h2>
-<div class="outline-text-2" id="text-org8623b84">
 <ul class="org-ul">
 <li><a href="post_one.html">Post One</a></li>
 <li><a href="post_two.html">Post Two</a></li>
 <li><a href="index.html">The Blog</a></li>
 </ul>
 </div>
-</div>
-</div>
 <div id="postamble" class="status">
-<p class="author">Author: Daniel Varela (<a href="mailto:daniel.varela@biochemistry.lu.se">daniel.varela@biochemistry.lu.se</a>)</p>
-<p class="date">Date: 2020-02-12 mié 00:00</p>
+<p class="author">Author: Daniel Varela</p>
+<p class="date">Created: 2020-06-18 jue 12:57</p>
 <p class="creator"><a href="https://www.gnu.org/software/emacs/">Emacs</a> 26.3 (<a href="https://orgmode.org">Org</a> mode 9.1.9)</p>
 <p class="validation"><a href="http://validator.w3.org/check?uri=referer">Validate</a></p>
 </div>

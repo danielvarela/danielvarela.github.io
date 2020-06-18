@@ -1,0 +1,16 @@
+plugins:
+  - jekyll-feed
+title: Daniel Varela’s blog
+description: personal blog 
+author: Daniel Varela
+lsi: false
+safe: true
+source: /
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
+

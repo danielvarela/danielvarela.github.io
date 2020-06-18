@@ -1,0 +1,12 @@
+#+title: Personal Blog
+#+date: <2020-02-12 Wed>
+#+author: Daniel Varela
+#+email: daniel.varela@biochemistry.lu.se
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/site.css" />
+
+Random articles about linux, emacs, data processing, etc.  This site and the articles are built with emacs and org-mode 
+
+* Blog
+
+#+INCLUDE: ../posts/sitemap.org :lines "-10"
+

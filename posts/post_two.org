@@ -1,0 +1,7 @@
+#+title: Post Two
+#+date: <2020-02-12 Wed>
+#+author: John Doe
+#+email: john.doe@example.com
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../css/site.css" />
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry.
