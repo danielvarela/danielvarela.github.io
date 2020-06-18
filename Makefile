@@ -12,6 +12,10 @@ publish_no_init: publish.el
 	@echo "Publishing... with --no-init."
 	emacs --batch --no-init --load publish.el --funcall org-publish-all
 
+
+upload:
+	git subtree push --prefix public origin gh-pages
+
 clean:
 	@echo "Cleaning up.."
 	@rm -rvf *.elc
